@@ -5,11 +5,11 @@ Java 11+
 Maven
 MySQL installed and running
 MongoDB installed and running
+
 Setup
 1. Clone and build
 git clone https://github.com/kperam1/Architecture-Prototype-1.git
 cd Architecture-Prototype-1
-mvn clean install
 
 2. Database setup
 MySQL
